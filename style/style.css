@@ -1,0 +1,38 @@
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    padding-left: 1rem;
+}
+
+.box{
+    width: 500px;
+    height: 250px;
+    background-color: rgb(4, 131, 46);
+    color: yellow;
+    padding-top: 2rem;
+    border: .5rem solid red;
+    margin: 2rem 1rem;
+}
+
+.box-blue{
+    background-color: blue;
+    padding: 5rem;
+    border: 30px solid magenta;
+    /* border-width: 3rem 2rem 1rem 4rem; */
+    border-radius: 25%;
+}
+
+
+.border-box{
+    box-sizing: border-box;
+}
+
+.lista-della-spesa{
+    padding-left: 4rem;
+}
+
